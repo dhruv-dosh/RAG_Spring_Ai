@@ -43,7 +43,7 @@ ENTRYPOINT ["java", "-jar", "app.jar"]
 # docker run -d -p 8082:8082 --name rag-backend-container rag-backend
 
 # Tag the image for Docker Hub
-# docker tag rag-backend abhi25022004/rag-backend:latest
+# docker tag rag-backend dhruvdoshi(yourId)/rag-backend:latest
 
 # Push the image to Docker Hub
-# docker push abhi25022004/rag-backend:latest
+# docker push dhruvdoshi(yourId)/rag-backend:latest
