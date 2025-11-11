@@ -1,4 +1,4 @@
-# RAGBot Spring AI
+# RAG Spring AI
 
 **RAGBot** is a Spring AI-powered Retrieval-Augmented Generation (RAG) application that allows users to upload documents and query information using vector search. It supports PostgreSQL with pgvector for vector storage and can use **Ollama** or **OpenAI** for embeddings and model queries.
 
