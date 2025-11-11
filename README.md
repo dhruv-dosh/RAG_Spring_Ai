@@ -32,8 +32,8 @@
 
 ## Architecture
 
-  ![alt text](<screenshots/document_ingestion_pipeline.png>) 
-  ![alt text](<screenshots/rag_architecture.png>) 
+  ![alt text](<rag/screenshots/document_ingestion_pipeline.png>) 
+  ![alt text](<rag/screenshots/rag_architecture.png>) 
 
 ## Setup Instructions Local
 
@@ -177,9 +177,9 @@ docker-compose -f compose-postgresql.yaml down
 
 ## Screenshots
 
-  ![alt text](<screenshots/upload.png>) 
-  ![alt text](<screenshots/empty_chat.png>) 
-  ![alt text](<screenshots/chat.png>) 
+  ![alt text](<rag/screenshots/upload.png>) 
+  ![alt text](<rag/screenshots/empty_chat.png>) 
+  ![alt text](<rag/screenshots/chat.png>) 
 
 ---
 
