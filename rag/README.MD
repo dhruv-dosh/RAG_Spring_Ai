@@ -204,15 +204,8 @@ docker-compose -f compose-postgresql.yaml down
 
 - **Rate Limits**  
   OpenAI models may have rate limits. Monitor usage in your OpenAI dashboard.
-
----
-
-## License
-
-This project is licensed under the **MIT License** – see the [LICENSE](./LICENSE) file for details.
-
 ---
 
 ## Author
  
- - Abhishek Rajput
+ - Dhruv Doshi
