@@ -39,8 +39,8 @@
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/Spring_SpringBoot_Basic_To_Advanced
-cd Spring_SpringBoot_Basic_To_Advanced\11_Spring_AI\RAG\rag
+git clone https://github.com/dhruv-dosh/RAG_Spring_Ai
+cd rag
 ```
 
 ### **2. Configure Spring Profiles**
@@ -107,8 +107,8 @@ http://localhost:8082
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/Spring_SpringBoot_Basic_To_Advanced
-cd Spring_SpringBoot_Basic_To_Advanced\11_Spring_AI\RAG\rag
+git clone https://github.com/dhruv-dosh/RAG_Spring_Ai
+cd rag
 ```
 
 ### **2. Configure Spring Profiles**
